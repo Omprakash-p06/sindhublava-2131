@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sindhu%20B%20L&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Full-Stack%20%7C%20AI%20%26%20Cloud&descAlignY=58&descColor=9be7ff&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9BE7FF&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Visualization+%F0%9F%93%8A;Full-Stack+Developer+%F0%9F%92%BB;RAG+%26+LLM+Tinkerer+%F0%9F%A4%96;AWS+Cloud+Practitioner+%E2%98%81%EF%B8%8F;ISE+Student+%40+MSRIT+Bangalore+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9BE7FF&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Visualization;Full-Stack+Software+Developer;RAG+%26+Generative+AI;AWS+Certified+Cloud+Practitioner;Information+Science+%26+Engineering+Student" alt="Typing SVG" />
 
 <br/>
 
@@ -13,22 +13,35 @@
 
 ---
 
-## 👋 About Me
+## About
 
 ```python
 class Sindhu:
     name = "Sindhu B L"
-    location = "Bengaluru, India 🇮🇳"
+    location = "Bengaluru, India"
     education = "B.E. Information Science & Engineering @ MSRIT (2024–2027)"
-    certified = ["AWS Cloud Practitioner Essentials", "NPTEL: AI Concepts & Techniques (Elite)", "NPTEL: Intro to Machine Learning"]
-    loves = ["Turning raw data into insights", "Shipping projects end-to-end", "Sketching & art 🎨"]
-    currently = "Building full-stack apps and exploring RAG + LLMs"
-    ask_me_about = ["SQL & dashboards", "FastAPI + React", "RAG pipelines", "Docker & CI/CD basics"]
+    certifications = [
+        "AWS Cloud Practitioner Essentials",
+        "NPTEL: AI Concepts & Techniques (Elite)",
+        "NPTEL: Intro to Machine Learning"
+    ]
+    focus_areas = [
+        "Data Analysis & Business Intelligence",
+        "Full-Stack Web Development",
+        "RAG Architecture & Applied AI"
+    ]
+    current_focus = "Building scalable full-stack applications and exploring RAG pipelines"
+    technical_interests = [
+        "SQL & Analytical Dashboards",
+        "FastAPI & React",
+        "Retrieval-Augmented Generation",
+        "Docker & CI/CD Pipelines"
+    ]
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
@@ -41,7 +54,7 @@ class Sindhu:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data & Visualization**
+**Data & Business Intelligence**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -55,7 +68,7 @@ class Sindhu:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**AI / ML**
+**Machine Learning & AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -77,22 +90,16 @@ class Sindhu:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| 🛍️ **[Tresart](https://github.com/sindhublava-2131/tresart)** | Full-stack e-commerce platform for handcrafted art (tote bags, pouches, gift sets) with JWT auth, persistent cart, custom-order requests, and dark/light theming. Frontend on Netlify, Jenkins CI/CD pipeline. | React · Vite · Tailwind · Framer Motion · FastAPI · MongoDB Atlas · JWT |
-| 🧠 **[QuizBuzz](https://github.com/sindhublava-2131)** | AI study platform that turns PDF notes into topic-focused MCQ quizzes using a RAG pipeline with Google Gemini, with instant grading, explanations, and secure sign-in. | Python · Streamlit · RAG · Gemini · SQLite |
-
-</div>
-
-> 💡 Update the QuizBuzz link above to the exact repository URL.
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[Tresart](https://github.com/sindhublava-2131/tresart)** | Full-stack e-commerce platform for handcrafted products featuring JWT authentication, persistent cart state, customized ordering workflows, and dark/light theming. Deployed with Netlify and automated Jenkins CI/CD. | React, Vite, Tailwind CSS, Framer Motion, FastAPI, MongoDB Atlas, JWT |
+| **[QuizBuzz](https://github.com/sindhublava-2131)** | AI study platform converting PDF lecture notes into topic-focused multiple-choice assessments via a RAG pipeline with Google Gemini, featuring instant evaluation, explanations, and secure authentication. | Python, Streamlit, RAG Architecture, Google Gemini, SQLite |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
@@ -108,25 +115,37 @@ class Sindhu:
 
 ---
 
-## 🏅 Certifications
+## Contribution Activity
 
-```
-☁️  AWS Cloud Practitioner Essentials          AWS Training & Certification   (May 2026)
-🧠  Artificial Intelligence: Concepts & Techniques   NPTEL, IISc Bangalore · Elite   (Jul–Oct 2025)
-📈  Introduction to Machine Learning           NPTEL, IIT Madras              (Jan–Apr 2026)
-```
-
----
-
-## 🤝 Collaboration & Hackathons
-
-- 🥗 Collaborated on **NutriSnap**, an AI nutrition app (backend + ML integration)
-- 🛡️ Part of the team behind **Guardio**, a Samsung InnovateX hackathon project
-- 🏆 GenAI Hack2Skill participant
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## Certifications
+
+| Certification | Issuing Organization | Period / Status |
+|:---|:---|:---|
+| AWS Cloud Practitioner Essentials | AWS Training & Certification | Completed (May 2026) |
+| Artificial Intelligence: Concepts & Techniques | NPTEL, IISc Bangalore | Elite (Jul–Oct 2025) |
+| Introduction to Machine Learning | NPTEL, IIT Madras | Completed (Jan–Apr 2026) |
+
+---
+
+## Hackathons & Collaborative Work
+
+- **NutriSnap**: Collaborative development of an AI-powered nutrition application, focusing on backend services and machine learning model integration.
+- **Guardio**: Team project developed for the Samsung InnovateX hackathon.
+- **GenAI Hack2Skill**: Participant in generative AI development challenges.
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -137,9 +156,5 @@ class Sindhu:
 </div>
 
 ---
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
